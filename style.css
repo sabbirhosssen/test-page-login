@@ -1,0 +1,10 @@
+.loginpagediv{
+    background-image:url(exp-bg.png);
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 0 auto;
+    height: 400px;
+    width: 300px;
+    padding: 50px;
+
+}
